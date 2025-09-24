@@ -1,37 +1,30 @@
 <h1>Hi, I'm Naomi! :wave: <br/><a href="www.linkedin.com/in/naomimolokwu">Software Development and Network Engineering Student at Sheridan College!</a></h1>
 
 
-<h2>👨‍💻 Artificial Intelligence & Machine Learning Projects:</h2>
+## 👨‍💻 Artificial Intelligence & Machine Learning Projects
 
-- [The Titanic Survival Predictor (Python, Scikit-Learn, Pandas)](https://github.com/naomigracem/TitanicMLProject)
+- [The Titanic Survival Predictor (Python, Scikit-Learn, Pandas)](https://github.com/naomigracem/TitanicMLProject)  
+  A machine learning model that predicts whether a passenger would survive the Titanic disaster. Features include data preprocessing, logistic regression, and test scenario predictions.
+
+## 👨‍💻 Software Development Projects
+
+- [Crazy8 Card Game (Java)](https://github.com/naomigracem/Crazy8Project)  
+  A console-based Java implementation of the classic Crazy8 card game. Players match cards by rank or suit, draw from the deck, and race to empty their hands. Includes deck shuffling and winner detection.
 
 
+## About Me
+
+- 🔭 I’m currently working on AI/ML and Java projects.
+- 🌱 I’m currently learning PyTorch, C & Enterprise Java Development.
+- 👯 I’m looking to collaborate on educational or AI/ML projects.
+- 💬 Ask me about java programming, AI/ML, or gaming!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/naomimolokwu)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I enjoy experimenting with machine learning models and thinking about game design!
 
 
-  
-<h2>👨‍💻 Software Development Projects:</h2>
+### 🤳 Connect with me:
 
+[<img align="left" alt="Naomi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/naomimolokwu
