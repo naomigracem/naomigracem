@@ -1,4 +1,4 @@
-<h1>Hi, I'm Naomi! :wave: <br/><a href="www.linkedin.com/in/naomimolokwu">Software Development and Network Engineering Student at Sheridan College!</a></h1>
+<h1>Hi, I'm Naomi! :wave: <br/>Software Development and Network Engineering Student at Sheridan College!</h1>
 
 
 ## 👨‍💻 Artificial Intelligence & Machine Learning Projects
@@ -28,3 +28,8 @@
 [<img align="left" alt="Naomi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/naomimolokwu
+
+[<img align="left" alt="Naomi | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/file-pdf.svg" />][resume]
+
+[resume]: https://yourdomain.com/NaomiMolokwu_Resume.pdf
+
