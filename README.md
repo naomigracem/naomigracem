@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Artificial Intelligence & Machine Learning Projects:</h2>
 - <b>The Titanic Survival Predictor (Python, Scikit-Learn, Pandas)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  -(https://github.com/naomigracem/TitanicMLProject)
 
   
 <h2>👨‍💻 Software Development Projects:</h2>
