@@ -25,11 +25,16 @@
 
 ### 🤳 Connect with me:
 
-[<img align="left" alt="Naomi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+**LinkedIn**  
+[<img align="left" alt="Naomi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
 [linkedin]: https://www.linkedin.com/in/naomimolokwu
 
-[<img align="left" alt="Naomi | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/file-pdf.svg" />][resume]
+<br>
 
-[resume]: https://yourdomain.com/NaomiMolokwu_Resume.pdf
+**Resume**  
+[<img align="left" alt="Naomi | Resume" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" />][resume]  
+
+[resume]: https://github.com/naomigracem/naomigracem/raw/main/Naomi-Molokwu-Resume-2025.pdf
+
 
