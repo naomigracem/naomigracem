@@ -1,7 +1,10 @@
 <h1>Hi, I'm Naomi! :wave: <br/><a href="www.linkedin.com/in/naomimolokwu">Software Development and Network Engineering Student at Sheridan College!</a></h1>
 
+
 <h2>👨‍💻 Artificial Intelligence & Machine Learning Projects:</h2>
-- [The Titanic Survival Predictor (Python, Scikit-Learn, Pandas)(https://github.com/naomigracem/TitanicMLProject)
+
+- [The Titanic Survival Predictor (Python, Scikit-Learn, Pandas)](https://github.com/naomigracem/TitanicMLProject)
+
 
 
 
