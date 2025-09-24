@@ -23,7 +23,8 @@
   A console-based Java implementation of the classic Crazy8 card game. Players match cards by rank or suit, draw from the deck, and race to empty their hands. Includes deck shuffling and winner detection.
 
 
-### 🤳 Connect with me:
+
+## 🤳 Connect with me:
 
 **LinkedIn**  
 [<img align="left" alt="Naomi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
