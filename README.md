@@ -3,14 +3,14 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m a Neuroscience graduate pursuing a Software development & Network Engineering diploma at Sheridan College.
+- 🔭 I’m a Neuroscience graduate pursuing a Computer Programming diploma at Sheridan College.
 - 🔭 I'm currently working on AI/ML and Java projects.
-- 🌱 I’m currently learning PyTorch, C & Enterprise Java Development.
+- 🌱 I’m currently learning PyTorch, C#, Project Management/System Development Methodologies & Hybrid Mobile Development.
 - 👯 I’m looking to collaborate on educational or AI/ML projects.
 - 💬 Ask me about java programming, AI/ML, or gaming!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/naomimolokwu)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy experimenting with machine learning models and thinking about game design!
+- ⚡ Fun fact: I enjoy experimenting with machine learning models and learning about both fintech and medical technology! I am also deeply passionate about producing and maintaining ethical AI systems!
 
 ## 👨‍💻 Artificial Intelligence & Machine Learning Projects
 
