@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Artificial Intelligence & Machine Learning Projects
 
-- [The Titanic Survival Predictor (Python, Scikit-Learn, Pandas)](https://github.com/naomigracem/TitanicMLProject)  
+- [Applied ML Classification Project - The Titanic (Python, Scikit-Learn, Pandas)](https://github.com/naomigracem/TitanicMLProject)  
   A machine learning model that predicts whether a passenger would survive the Titanic disaster. Features include data preprocessing, logistic regression, and test scenario predictions.
 
 ## 👨‍💻 Software Development Projects
