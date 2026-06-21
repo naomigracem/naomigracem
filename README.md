@@ -38,7 +38,7 @@ Predictive classification model using demographic and passenger data.
 - Logistic Regression baseline model  
 - Feature engineering and evaluation metrics  
 
-👉 https://github.com/naomigracem/titanic-project
+👉 https://github.com/naomigracem/Applied-ML-Classification-Project
 
 ---
 
@@ -46,6 +46,7 @@ Predictive classification model using demographic and passenger data.
 Object-oriented Java console application implementing game logic and rules.
 
 👉 https://github.com/naomigracem/Crazy8Project
+
 ---
 
 ## 🎯 Interests
