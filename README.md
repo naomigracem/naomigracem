@@ -1,30 +1,63 @@
-<h1>Hi, I'm Naomi! :wave: <br/>Software Development and Network Engineering Student at Sheridan College!</h1>
+# Hi, I'm Naomi 👋
 
+## 🧠 AI / Machine Learning & Health Informatics Enthusiast
 
-## 🧠 About Me
+Neuroscience graduate with training in Computer Programming and experience in research, focused on applying machine learning and data analysis to real-world biomedical datasets.
+---
 
-- 🔭 I’m a Neuroscience graduate pursuing a Computer Programming diploma at Sheridan College.
-- 🔭 I'm currently working on AI/ML and Java projects.
-- 🌱 I’m currently learning PyTorch, C#, Project Management/System Development Methodologies & Hybrid Mobile Development.
-- 👯 I’m looking to collaborate on educational or AI/ML projects.
-- 💬 Ask me about java programming, AI/ML, or gaming!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/naomimolokwu)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I enjoy experimenting with machine learning models and learning about both fintech and medical technology! I am also deeply passionate about producing and maintaining ethical AI systems!
+## 🚀 About Me
 
-## 👨‍💻 Artificial Intelligence & Machine Learning Projects
+- 🔬 Background in Neuroscience with a strong interest in computational approaches to health data  
+- 🤖 Focused on Machine Learning, Data Analysis, and Health Informatics applications  
+- 📊 Interested in translating biomedical data into actionable insights using ML models  
+- 🧠 Experienced with Python-based machine learning workflows (scikit-learn, pandas, NumPy)  
+- 💬 Open to opportunities in healthcare ML, data science, and applied AI roles  
+- 📫 Connect with me on LinkedIn  
+- ⚡ Passionate about ethical AI and its application in medical and health systems  
 
-- [Applied ML Classification Project - The Titanic (Python, Scikit-Learn, Pandas)](https://github.com/naomigracem/TitanicMLProject)  
-  A machine learning model that predicts whether a passenger would survive the Titanic disaster. Features include data preprocessing, logistic regression, and test scenario predictions.
+---
 
-## 👨‍💻 Software Development Projects
+## 👨‍💻 Selected Projects
 
-- [Crazy8 Card Game (Java)](https://github.com/naomigracem/Crazy8Project)  
-  A console-based Java implementation of the classic Crazy8 card game. Players match cards by rank or suit, draw from the deck, and race to empty their hands. Includes deck shuffling and winner detection.
+### EEG Eye State Classification (Machine Learning)
+Machine learning model classifying eye state (open vs closed) using EEG brainwave signals.
 
+- Built Logistic Regression and Random Forest models  
+- Applied feature scaling and cross-validation  
+- Evaluated model generalization and overfitting behavior  
+- Explored predictive limitations of raw EEG signals  
 
+👉 https://github.com/YOUR_USERNAME/EEG-Eye-State-Classification
 
-## 🤳 Connect with me:
+---
+
+### Titanic Survival Prediction (Machine Learning)
+Predictive classification model using demographic and passenger data.
+
+- Data cleaning and preprocessing  
+- Logistic Regression baseline model  
+- Feature engineering and evaluation metrics  
+
+👉 https://github.com/YOUR_USERNAME/titanic-project
+
+---
+
+### Crazy8 Card Game (Java)
+Object-oriented Java console application implementing game logic and rules.
+
+---
+
+## 🎯 Interests
+
+- Healthcare Machine Learning  
+- Clinical Data Analysis  
+- Biomedical Signal Processing (EEG, physiological data)  
+- Ethical AI in healthcare systems  
+- Predictive modeling in health informatics  
+
+---
+
+## 🤝 Connect With Me
 
 **LinkedIn**  
 [<img align="left" alt="Naomi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
