@@ -27,7 +27,7 @@ Machine learning model classifying eye state (open vs closed) using EEG brainwav
 - Evaluated model generalization and overfitting behavior  
 - Explored predictive limitations of raw EEG signals  
 
-👉 https://github.com/YOUR_USERNAME/EEG-Eye-State-Classification
+👉 https://github.com/naomigracem/EEG-Eye-State-Classification
 
 ---
 
@@ -38,13 +38,14 @@ Predictive classification model using demographic and passenger data.
 - Logistic Regression baseline model  
 - Feature engineering and evaluation metrics  
 
-👉 https://github.com/YOUR_USERNAME/titanic-project
+👉 https://github.com/naomigracem/titanic-project
 
 ---
 
 ### Crazy8 Card Game (Java)
 Object-oriented Java console application implementing game logic and rules.
 
+👉 https://github.com/naomigracem/Crazy8Project
 ---
 
 ## 🎯 Interests
